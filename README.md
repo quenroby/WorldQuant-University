@@ -73,8 +73,8 @@ Create a loop to repeat the trade management and data collection steps for each 
 
 ## Running the Project
 To run the project, execute the main.py script:
-python main.py
-Ensure that you monitor the output and logs to track the bot's performance and make adjustments as needed.
+- python main.py
+- Ensure that you monitor the output and logs to track the bot's performance and make adjustments as needed.
 
 ## Conclusion
 This automated Forex trading bot leverages economic news, technical indicators, and candlestick patterns to make informed trading decisions. By continuously monitoring and managing trades, the bot aims to optimize trading performance and manage risk effectively.
