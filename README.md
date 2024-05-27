@@ -72,7 +72,7 @@ You will also need an OANDA API access token and account ID.
 To run the project, execute the `main.py` script:
 ```sh
 python main.py
-
+```
 Ensure that you monitor the output and logs to track the bot's performance and make adjustments as needed.
 
 ## Conclusion
