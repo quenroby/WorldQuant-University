@@ -42,8 +42,8 @@ print(path)
 ################################################
 # Access to Oanda API
 
-access_token = "2c8d32a134f3450b3a32ea04d5ef75d3-6bd075399bc865ab3fa3a771ce7846f5"
-accountID = "101-001-20453918-001"
+access_token = "---Add Access Token---"
+accountID = "--Add Account ID---"
 client = API(access_token = access_token)
 openTrades = Oanda_Connector.getOpenTrades(access_token, accountID)
      
