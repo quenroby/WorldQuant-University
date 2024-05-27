@@ -73,9 +73,6 @@ Create a loop to repeat the trade management and data collection steps for each 
 
 ## Running the Project
 To run the project, execute the main.py script:
-
-sh
-Copy code
 python main.py
 Ensure that you monitor the output and logs to track the bot's performance and make adjustments as needed.
 
